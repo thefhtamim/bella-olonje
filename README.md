@@ -1,4 +1,4 @@
-<h1>Pagina Responsive</h1>
+<h1>Bella Olonje</h1>
 A beatiful responsive page built with HTML, CSS and JavaScript 
 
 <div align="center">
