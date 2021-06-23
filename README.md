@@ -3,7 +3,7 @@ A beatiful landing page for restaurant built with HTML, CSS and JavaScript
 
 <div align="center">
   <h3>
-    <a href="https://sharipov-pagina.netlify.app/">
+    <a href="https://sharipov-bella-olonje.netlify.app/">
       Demo
     </a>
     <span> | </span>
