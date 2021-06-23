@@ -13,7 +13,7 @@ A beatiful landing page for restaurant built with HTML, CSS and JavaScript
   </h3>
 </div>
 
-![screenshot](https://github.com/sharipovme/pagina-responsive/blob/main/preview.png)
+![screenshot](https://sharipov-bella-olonje.netlify.app/preview.png)
 
 ### Built With
 
