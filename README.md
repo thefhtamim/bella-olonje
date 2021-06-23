@@ -7,7 +7,7 @@ A beatiful landing page for restaurant built with HTML, CSS and JavaScript
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/sharipovme/pagina-responsive/tree/main/project">
+    <a href="https://github.com/sharipovme/bella-olonje/tree/main/project">
       Codes
     </a>
   </h3>
