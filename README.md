@@ -1,5 +1,5 @@
 <h1>Bella Olonje</h1>
-A beatiful landing page for restaurant built with HTML, CSS and JavaScript. 
+A beatiful landing page for restaurant built with HTML, CSS and JavaScript 
 
 <div align="center">
   <h3>
